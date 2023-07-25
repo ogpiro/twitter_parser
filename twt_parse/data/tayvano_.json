@@ -1,0 +1,62 @@
+{
+    "14-06-2023 13:55:51": {
+        "text": "Pinned TweetTay @tayvano_·Jun 14A thread of misc. interesting things related to the Atomic Wallet hack, Lazarus, and especially what sprawling hacks look like on-chain.(this thread is gunna get into the weeds. i suggest the other thread if you want something shallow and easy-to-digest )Quote TweetTay @tayvano_·Jun 14Yes, it's still getting bigger.The list @zachxbt and I have been compiling is @ $67m.The list @elliptic has is @ $100m.There's some overlap in data but it's not the same data.Meanwhile, Atomic Wallet still can't be bothered to update the folks they've rekt.   twitter.com/tayvano_/statu…28174394184.3K",
+        "link": "https://twitter.com/tayvano_/status/1668935273047261185"
+    },
+    "11-07-2023 01:41:14": {
+        "text": "Tay @tayvano_·Jul 11When it comes to financial crime, money laundering, etc. everyone goes thru a phase of thinking that the solution is knowing the identity of the account holder. \"if only we knew who moved these assets! then we would be able to catch them and stop crime!\"N O .24189562109.3K",
+        "link": "https://twitter.com/tayvano_/status/1678534875920621568"
+    },
+    "17-07-2023 15:34:37": {
+        "text": "Tay  RetweetedZachXBT@zachxbt·Jul 171/ An investigation into the Canadian phishing scammer known as Soup (Dan) who has helped steal millions in assets by attacking the Discord servers of projects like @Orbiter_Finance @PikaProtocol1434001,754503.5K",
+        "link": "https://twitter.com/zachxbt/status/1680918931442368515"
+    },
+    "17-07-2023 18:38:50": {
+        "text": "Tay @tayvano_·Jul 17Web wallets are impossible to secure.I know because I built one too.I don't know why yall insist on repeating history.Even if you manage to secure your own product and infrastructure, the hackers will just hack the infrastructure of the internet.https://theverge.com/2018/4/24/17275982/myetherwallet-hack-bgp-dns-hijacking-stolen-ethereum…Quote TweetRic “el pony esponjoso”@fluffypony·Jul 16I can’t believe that in 2023 someone built a browser wallet - @MutinyWallet is a terrible idea and NOBODY should use it!We spent YEARS (2014 - 2017) trying to find ways to secure @MyMonero’s web wallet release against an ever-increasing series of attacks including:-… twitter.com/1440000bytes/s… Show more125718664.8K",
+        "link": "https://twitter.com/tayvano_/status/1680965289629061122"
+    },
+    "17-07-2023 18:38:57": {
+        "text": "Tay @tayvano_·Jul 17On top of that, billions have been lost and stolen over the years due to weaknesses in wallets that make it inevitable that users make mistakes and are constantly targeted and deceived by phishers and scammers and attackers.152,252",
+        "link": "https://twitter.com/tayvano_/status/1680965320151044096"
+    },
+    "17-07-2023 18:38:58": {
+        "text": "Tay @tayvano_·Jul 17Your wallet is core to your existence in this industry. It is how you secure your money, property, identity. It's how you represent yourself to the world. It's how you're able to access & interact with anything.If someone gets your keys, they *are* you.Choose carefully.22152,214",
+        "link": "https://twitter.com/tayvano_/status/1680965321728090112"
+    },
+    "18-07-2023 22:29:17": {
+        "text": "Tay @tayvano_·Jul 18dprk once again rekting you via the platforms you use: github, slack, tg, npm.not checking email won't protect you anymore. admin keys and build/deploy systems gunna end up pwnd by this campaign.gl & rip.https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/…127717642.9K",
+        "link": "https://twitter.com/tayvano_/status/1681385673247571968"
+    },
+    "21-07-2023 04:45:48": {
+        "text": "Tay @tayvano_·Jul 21jumpcloud.com[Security Update] Incident Details - JumpCloud132,084",
+        "link": "https://twitter.com/tayvano_/status/1682205200562651136"
+    },
+    "21-07-2023 04:46:08": {
+        "text": "Tay @tayvano_·Jul 21sentinelone.comJumpCloud Intrusion | Attacker Infrastructure Links Compromise to North Korean APT Activity1142,007",
+        "link": "https://twitter.com/tayvano_/status/1682205286503968769"
+    },
+    "21-07-2023 13:42:05": {
+        "text": "Tay  RetweetedNick Bax.eth@bax1337·Jul 211/In 2018, a man in Colorado was tricked into downloading malware which resulted in his BTC, ~95% of his net wealth, being stolen. In 2021, he sued two teens for stealing his BTC. His investigation offers a rare glimpse into crypto forensics methods.medium.comAnatomy of a Bitcoin Heist: The Electrum Atom Malware Saga15114446141.4K",
+        "link": "https://twitter.com/bax1337/status/1682340159491129345"
+    },
+    "24-07-2023 20:39:31": {
+        "text": "Tay  RetweetedTay @tayvano_·16hReplying to @tayvano_update:another good example of privileged af westerners thinking theyre solving the world's problems when really theyre creating another market for exploiting humans.thank *fuck* you can just sell the account.Quote TweetZachXBT@zachxbt·17hReplying to @zachxbt3/6 Verification that you’re a real person seems to only currently be enforced at the enrollment level. This has lead to the emergence of a Black Market for accounts. Currently accounts got as low as $1 per account on Telegram.15336,377",
+        "link": "https://twitter.com/tayvano_/status/1683532377476440064"
+    },
+    "24-07-2023 21:06:25": {
+        "text": "Tay @tayvano_·15hThe actual solution is to build robust systems that get the desired outcomes using information and access they inherently have.\"b..b..but we wanna give every unique human an airdrop but we can't!\"Why? Like, literally, *why* do you want to do that? What does that accomplish???2132,580",
+        "link": "https://twitter.com/tayvano_/status/1683539145283731456"
+    },
+    "24-07-2023 21:24:42": {
+        "text": "Tay @tayvano_·15h\"Oh bc the world will be better because everyone can have UBI!!!\"Hmm...have you tried designing systems that DONT incentivize exploitation or lock people out?Maybe, like, give people actual control & autonomy over their own futures instead of trying to re-colonize them? 11202,021",
+        "link": "https://twitter.com/tayvano_/status/1683543747974537216"
+    },
+    "25-07-2023 02:59:41": {
+        "text": "Tay  RetweetedAri Paul @AriDavidPaul·10hReplying to @AriDavidPaul4/ I've been asked a few times if I'm claiming \"conspiracy.\"  Not really.  Some of the 'participants' in the conspiracy might honestly not understand the game they're playing.  That's the power of incentives.  You can guarantee market manipulation and wash trading without any11689,760",
+        "link": "https://twitter.com/AriDavidPaul/status/1683628048678019077"
+    },
+    "25-07-2023 05:41:58": {
+        "text": "Tay @tayvano_·7hlol wow the violent amt of truth in here > [Some of the participants] might honestly not understand the game they're playing.> That's the power of incentives.> You can guarantee market manipulation and wash trading without any communication between the relevant parties.Quote TweetAri Paul @AriDavidPaul·10hHere's the basic crypto market manipulation model that produces the $10b+ valuations for start-ups:  grant founders and investors the cap table, locked. Airdrop a tiny % of float to retail.  Then give mm'ers a multiple of that and incentivize them to set a price floor w/ options, twitter.com/MattyIceCO/sta…61211232.1K",
+        "link": "https://twitter.com/tayvano_/status/1683668885919404032"
+    }
+}
